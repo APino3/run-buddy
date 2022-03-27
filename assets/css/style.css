@@ -150,6 +150,7 @@ Steps span {
 
 .section-title {
     font-size: 55;
+    display: inline-block;
     color:#024e76;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
@@ -206,4 +207,16 @@ Steps span {
 }
 .text-right {
     text-align: right;
+}
+/* REACH OUT STYLES START */
+.contact {
+    text-align: center;
+    background: #024e76
+}
+.contact h2 {
+    color: #fce138;
+}
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
 }
